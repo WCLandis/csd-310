@@ -135,7 +135,7 @@ try:
 
     user_selection = show_menu() 
 
- #Assistance with user_selection and account_option nested 'if' statements utilizing Richard Krasso's original file.
+ #WhatABook user selections and account options. Assistance with user_selection and account_option nested 'if' statements utilizing Richard Krasso's original file.
 
     while user_selection != 4:
 
